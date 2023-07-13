@@ -14,6 +14,4 @@ Languages<br>
 <img src="https://img.shields.io/badge/Java-6CD74A?style=flat-square&logo=OpenJDK&logoColor=white"/>
 
 ## 🧡 Socials
-<img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Insta-99333CC?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Insta-99333CC?style=flat-square&logo=Instagram&logoColor=white"/>
