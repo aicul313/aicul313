@@ -4,6 +4,6 @@
 🧡 Socials
 > <a href="https://corinhamding.tistory.com/"><img src="https://img.shields.io/badge/Blog-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white"/></a> <a href="https://github.com/aicul313"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://www.instagram.com/3h._1y3/"><img src="https://img.shields.io/badge/Instagram-C265FF?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
---
+***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicul313&exculde_repo=3-2-LINK-&hide=C#)](https://github.com/anuraghazra/github-readme-stats)
