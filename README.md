@@ -11,4 +11,3 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdguswl20)](https://solved.ac/wjdguswl20/)
-]
