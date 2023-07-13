@@ -6,4 +6,4 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aicul313&exculde_repo=3-2-LINK-&hide=C#)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicul313&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aicul313&show_icons=true&theme=buefy)
