@@ -1,4 +1,4 @@
-❤️ <span style="color:red">**Information**</span>
+<span style="color:red">❤️ **Information**</span>
 > Hyeonji Jeong<br>
 > lucia_0313@naver.com<br>
 > BUSAN, KOREA
